@@ -20,6 +20,7 @@ public class ConsoleHandler {
                 car.setYear(0);
                 carDao.addCar(new Car(car.getMake(), car.getModel(), car.getYear()));
                 carDao.removeCar(counter);
+                scanner.close();
                 break;
             }
             System.out.println("Input model of car");

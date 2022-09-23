@@ -1,4 +1,4 @@
-package test.homework16;
+package test.homeworkEnum;
 
 public enum Animal {
     DOG(3), CAT(10), OX(2), FROG(1), WOLF(2), RACCOON(4), BEAR(8), FOX(5);

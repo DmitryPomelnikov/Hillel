@@ -1,4 +1,4 @@
-package test.homework16;
+package test.homeworkEnum;
 
 public class Main {
     public static void main(String[] args) {
